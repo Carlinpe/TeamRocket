@@ -38,7 +38,7 @@
 
 
 
-
+###Notes
 - 👋 #Hola, somos el team Rocket.
 - 👀 Me interesa las actividades del curso de Ing. de software.
 - 💞️ Ya no necesitamos más colaboradores.
