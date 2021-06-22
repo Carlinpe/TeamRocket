@@ -14,7 +14,7 @@
 -
 ## Explicacion general del proyecto
 
-## Table of Contents
+## Tabla de Contenido
 
 - [Numbers](https://github.com/VkCarlin/TeamRocket)
 - [Classic Algorithms](https://github.com/VkCarlin/TeamRocket)
@@ -38,7 +38,7 @@
 
 
 
-###Notes
+## Notes
 - 👋 #Hola, somos el team Rocket.
 - 👀 Me interesa las actividades del curso de Ing. de software.
 - 💞️ Ya no necesitamos más colaboradores.
