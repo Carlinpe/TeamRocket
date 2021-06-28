@@ -16,18 +16,18 @@
 ##### Pegar la info de sistemas de tutoria
 ## Tabla de Contenido
 
-- [Numbers](https://github.com/VkCarlin/TeamRocket)
+- [Introducción](https://github.com/VkCarlin/TeamRocket)
 - [Classic Algorithms](https://github.com/VkCarlin/TeamRocket)
-- [Graph](https://github.com/VkCarlin/TeamRocket)
-- [Data Structures](https://github.com/VkCarlin/TeamRocket)
-- [Text](https://github.com/VkCarlin/TeamRocket)
+- [Diagramas](https://github.com/VkCarlin/TeamRocket)
+- [Diagrama de casos de uso](https://github.com/VkCarlin/TeamRocket)
+- [Diagrama i*](https://github.com/VkCarlin/TeamRocket)
 - [Networking](https://github.com/VkCarlin/TeamRocket)
 - [Classes](https://github.com/VkCarlin/TeamRocket)
 - [Threading](https://github.com/VkCarlin/TeamRocket)
 - [Web](https://github.com/VkCarlin/TeamRocket)
 - [Files](https://github.com/VkCarlin/TeamRocket)
 - [Databases](https://github.com/VkCarlin/TeamRocket)
-- [Graphics and Multimedia](https://github.com/VkCarlin/TeamRocket)
+- [Graficos de los resultados](https://github.com/VkCarlin/TeamRocket)
 - [Security](https://github.com/VkCarlin/TeamRocket)
 
 
