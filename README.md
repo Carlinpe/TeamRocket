@@ -10,8 +10,10 @@
 #### Proyecto: Proyecto de Ing. De Software
 #### Autores:
 - **Quispe Chambilla Carlos Enrique** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
--
--
+- **Sarco Jacinto Daniel Eduardo** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+- **Bustamante Flores Erick** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+- **Dorado Torres Diego Alonso** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+- **Apellidos - Nombres** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
 ## Explicacion general del proyecto
 ##### Pegar la info de sistemas de tutoria
 ## Tabla de Contenido
