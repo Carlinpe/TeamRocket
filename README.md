@@ -15,7 +15,7 @@
 - **Dorado Torres Diego Alonso** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
 - **Apellidos - Nombres** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
 ## Explicacion general del proyecto
-##### Pegar la info de sistemas de tutoria
+##### Diagrama de casos de uso:
 ## Tabla de Contenido
 
 - [Introducción](https://github.com/VkCarlin/TeamRocket)
