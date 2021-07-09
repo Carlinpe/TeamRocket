@@ -16,6 +16,8 @@
 - **Apellidos - Nombres** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
 ## Explicacion general del proyecto
 ##### Diagrama de casos de uso:
+
+- Imagenes
 ## Tabla de Contenido
 
 - [Introducción](https://github.com/VkCarlin/TeamRocket)
@@ -34,10 +36,3 @@
 
 
 
-
-
-## Notes
-- 👋 #Hola, somos el team Rocket.
-- 👀 Me interesa las actividades del curso de Ing. de software.
-- 💞️ Ya no necesitamos más colaboradores.
-- 📫 Cómo contactarme Cenctro Pokemon Cusco.
