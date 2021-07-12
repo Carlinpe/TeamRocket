@@ -5,18 +5,18 @@
   - **Institucion:** Universidad Nacional De San Antonio Abad Del Cusco
   - **Facultad:** Facultad De Ingenieria Eléctrica, Electrónica, Informática y Mecánica
   - **Escuela Profecional:** Ingenieria Informatica Y De Sistemas
-#### Docente Encargada: **QUINTANILLA PORTUGAL ROXANA LISETTE** - _Docente_ - [Concytec](http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=40930).
+#### Docente Encargada: **_QUINTANILLA PORTUGAL ROXANA LISETTE_** - _Docente_ - [Concytec](http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=40930).
 
 #### Proyecto: SISTEMA DE TUTORIA
 #### Autores:
-- **QUISPE CHAMBILLA CARLOS ENRIQUE** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
-- **BUSTAMANTE FLORES ERICK ANDREW** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
-- **CASILLA PERCCA VLADIMIR DANTE** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
-- **SARCO JACINTO DANIEL EDUARDO** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
-- **DORADO TORRES DIEGO ALONSO** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
-- **TTITO QUILCA CESAR RODRIGO** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
-- **RODRIGUEZ HANCCO RUDY RODRIGO** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
-- **UGARTE CASTILLO BRIGGITTE LEONOR** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+- #### **_QUISPE CHAMBILLA CARLOS ENRIQUE_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+- **_BUSTAMANTE FLORES ERICK ANDREW_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+- **_CASILLA PERCCA VLADIMIR DANTE_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+- **_SARCO JACINTO DANIEL EDUARDO_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+- **_DORADO TORRES DIEGO ALONSO_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+- **_TTITO QUILCA CESAR RODRIGO_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+- **_RODRIGUEZ HANCCO RUDY RODRIGO_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+- **_UGARTE CASTILLO BRIGGITTE LEONOR_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
 
 ## Explicacion general del proyecto
 ##### Diagrama de casos de uso:
