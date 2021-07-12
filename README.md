@@ -9,11 +9,15 @@
 
 #### Proyecto: SISTEMA DE TUTORIA
 #### Autores:
-- **Quispe Chambilla Carlos Enrique** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
-- **Sarco Jacinto Daniel Eduardo** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
-- **Bustamante Flores Erick** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
-- **Dorado Torres Diego Alonso** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
-- **Apellidos - Nombres** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+- **QUISPE CHAMBILLA CARLOS ENRIQUE** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+- **BUSTAMANTE FLORES ERICK ANDREW** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+- **CASILLA PERCCA VLADIMIR DANTE** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+- **SARCO JACINTO DANIEL EDUARDO** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+- **DORADO TORRES DIEGO ALONSO** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+- **TTITO QUILCA CESAR RODRIGO** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+- **RODRIGUEZ HANCCO RUDY RODRIGO** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+- **UGARTE CASTILLO BRIGGITTE LEONOR** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+
 ## Explicacion general del proyecto
 ##### Diagrama de casos de uso:
 
