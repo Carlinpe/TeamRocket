@@ -9,7 +9,7 @@
 
 #### Proyecto: SISTEMA DE TUTORIA
 #### Autores:
-- ####### **_QUISPE CHAMBILLA CARLOS ENRIQUE_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+- **_QUISPE CHAMBILLA CARLOS ENRIQUE_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
 - **_BUSTAMANTE FLORES ERICK ANDREW_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
 - **_CASILLA PERCCA VLADIMIR DANTE_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
 - **_SARCO JACINTO DANIEL EDUARDO_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
