@@ -12,7 +12,7 @@
 - **_QUISPE CHAMBILLA CARLOS ENRIQUE_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
 - **_BUSTAMANTE FLORES ERICK ANDREW_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
 - **_CASILLA PERCCA VLADIMIR DANTE_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
-- **_SARCO JACINTO DANIEL EDUARDO_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+- **_SARCO JACINTO DANIEL EDUARDO_** - _GitHub Account_ - [Mjinboodssj999](https://github.com/Mjinboodssj999)
 - **_DORADO TORRES DIEGO ALONSO_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
 - **_TTITO QUILCA CESAR RODRIGO_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
 - **_RODRIGUEZ HANCCO RUDY RODRIGO_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
