@@ -54,12 +54,12 @@
   - Identificar los requerimientos.
   - La creación de los diagramas de casos de uso de los requisitos de prioridad M.
   - Las circunstancias actuales que vivimos por COVID-19, nos impide reunir a los miembros del equipo presencialmente.
-  Software: https://dev.azure.com
-  Proyecto: https://dev.azure.com/carrito2520/Sistema%20de%20Tutorias
-  Repositorio Github: https://github.com/VkCarlin/TeamRocket
-  Guia de i*: http://istarwiki.org/tiki-index.php?page=iStarQuickGuide 
-  Software i*: https://www.cin.ufpe.br/~jhcp/pistar/tool/#
-  Software para casos de uso: https://lucid.app/lucidchart
+    - Software: https://dev.azure.com
+    - Proyecto: https://dev.azure.com/carrito2520/Sistema%20de%20Tutorias
+    - Repositorio Github: https://github.com/VkCarlin/TeamRocket
+    - Guia de i*: http://istarwiki.org/tiki-index.php?page=iStarQuickGuide 
+    - Software i*: https://www.cin.ufpe.br/~jhcp/pistar/tool/#
+    - Software para casos de uso: https://lucid.app/lucidchart
 ### 1.4 Justificación	
   El presente proyecto de investigación tiene como finalidad desarrollar prototipos, reconocer los requerimientos, verificación de modelos lógicos, y aplicar el     backlog para desarrollar cada una de las tareas.
 ### 1.5 Cronograma	
