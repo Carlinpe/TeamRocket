@@ -18,25 +18,50 @@
 - **_RODRIGUEZ HANCCO RUDY RODRIGO_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
 - **_UGARTE CASTILLO BRIGGITTE LEONOR_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
 
-## Explicacion general del proyecto
-##### Diagrama de casos de uso:
 
-- Imagenes
 ## Tabla de Contenido
-
-- [Introducción](https://github.com/VkCarlin/TeamRocket)
-- [Classic Algorithms](https://github.com/VkCarlin/TeamRocket)
-- [Diagramas](https://github.com/VkCarlin/TeamRocket)
-- [Diagrama de casos de uso](https://github.com/VkCarlin/TeamRocket)
-- [Diagrama i*](https://github.com/VkCarlin/TeamRocket)
-- [Networking](https://github.com/VkCarlin/TeamRocket)
-- [Classes](https://github.com/VkCarlin/TeamRocket)
-- [Threading](https://github.com/VkCarlin/TeamRocket)
-- [Web](https://github.com/VkCarlin/TeamRocket)
-- [Files](https://github.com/VkCarlin/TeamRocket)
-- [Databases](https://github.com/VkCarlin/TeamRocket)
-- [Graficos de los resultados](https://github.com/VkCarlin/TeamRocket)
-- [Security](https://github.com/VkCarlin/TeamRocket)
+- [Capítulo I: Aspectos Generales](https://github.com/VkCarlin/TeamRocket)
+- [1.1 Planteamiento del problema](https://github.com/VkCarlin/TeamRocket)
+- [1.1.1 Descripción del problema](https://github.com/VkCarlin/TeamRocket)
+- [1.1.2 Identificación del problema](https://github.com/VkCarlin/TeamRocket)
+- [1.2 Objetivos](https://github.com/VkCarlin/TeamRocket)
+- [1.2.1 Objetivo general](https://github.com/VkCarlin/TeamRocket)
+- [1.2.2 Objetivos específicos](https://github.com/VkCarlin/TeamRocket)
+- [1.3 Limitaciones y Delimitaciones](https://github.com/VkCarlin/TeamRocket)
+- [1.4 Justificación](https://github.com/VkCarlin/TeamRocket)
+- [1.5 Cronograma](https://github.com/VkCarlin/TeamRocket)
 
 
 
+## Capítulo I: Aspectos Generales	
+
+### 1.1 Planteamiento del problema	
+
+#### 1.1.1 Descripción del problema	
+  Observamos que la designación de docentes para realizar tutorías aún no se encuentra automatizada y debido a esto los alumnos no son identificados de manera rápida para poder recibir dichas tutorías.
+#### 1.1.2 Identificación del problema	
+  Identificar la asignación de los estudiantes para recibir las tutorías.
+### 1.2 Objetivos	
+
+#### 1.2.1 Objetivo general	
+  Desarrollar e Identificar un sistema de tutoría para la escuela profesional de ingeniería informática y de sistemas.
+#### 1.2.2 Objetivos específicos	
+  Realizar el desarrollo del Sistema cubriendo todos los requisitos del Reglamento de Tutorías.
+
+### 1.3 Limitaciones y Delimitaciones	
+  - Hicimos uso de un software online para poder realizar el trabajo de la creación del Backlog con el cual agregamos el link para su visualización.
+  - Necesitaremos acceso a la base de datos para realizar el siguiente paso.
+  - Identificar los requerimientos.
+  - La creación de los diagramas de casos de uso de los requisitos de prioridad M.
+  - Las circunstancias actuales que vivimos por COVID-19, nos impide reunir a los miembros del equipo presencialmente.
+  Software: https://dev.azure.com
+  Proyecto: https://dev.azure.com/carrito2520/Sistema%20de%20Tutorias
+  Repositorio Github: https://github.com/VkCarlin/TeamRocket
+  Guia de i*: http://istarwiki.org/tiki-index.php?page=iStarQuickGuide 
+  Software i*: https://www.cin.ufpe.br/~jhcp/pistar/tool/#
+  Software para casos de uso: https://lucid.app/lucidchart
+### 1.4 Justificación	
+  El presente proyecto de investigación tiene como finalidad desarrollar prototipos, reconocer los requerimientos, verificación de modelos lógicos, y aplicar el     backlog para desarrollar cada una de las tareas.
+### 1.5 Cronograma	
+
+![Resultado](./SistemadeTutoria_Images/Cronoigrama.png)
