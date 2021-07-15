@@ -64,4 +64,4 @@
   El presente proyecto de investigación tiene como finalidad desarrollar prototipos, reconocer los requerimientos, verificación de modelos lógicos, y aplicar el     backlog para desarrollar cada una de las tareas.
 ### 1.5 Cronograma	
 
-![Resultado](./SistemadeTutoria_Images/Cronoigrama.png)
+![Resultado](./SistemadeTutoria_Images/Cronograma.png)
