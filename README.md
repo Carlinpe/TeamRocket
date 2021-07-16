@@ -8,23 +8,23 @@
   - **Proyecto: SISTEMA DE TUTORIA**
 
 
-#### Autores:
-#### Product - Owner :
-- **_QUINTANILLA PORTUGAL ROXANA LISETTE_** - _Docente_ - [Concytec](http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=40930).
-#### Desarrollador Back-End:
-- **_QUISPE CHAMBILLA CARLOS ENRIQUE_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
-- **_RODRIGUEZ HANCCO RUDY RODRIGO_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
-#### Scrum - Master :
-- **_BUSTAMANTE FLORES ERICK ANDREW_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
-#### Desarrollador Front-End:
-- **_CASILLA PERCCA VLADIMIR DANTE_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
-#### Asesor de sistema:
-- **_DORADO TORRES DIEGO ALONSO_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
-#### Testeador:
-- **_TTITO QUILCA CESAR RODRIGO_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
-- **_SARCO JACINTO DANIEL EDUARDO_** - _GitHub Account_ - [Mjinboodssj999](https://github.com/Mjinboodssj999)
-#### Requerimientos:
-- **_UGARTE CASTILLO BRIGGITTE LEONOR_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+  #### Autores:
+  #### Product - Owner :
+  - **_QUINTANILLA PORTUGAL ROXANA LISETTE_** - _Docente_ - [Concytec](http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=40930).
+  #### Desarrollador Back-End:
+  - **_QUISPE CHAMBILLA CARLOS ENRIQUE_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+  - **_RODRIGUEZ HANCCO RUDY RODRIGO_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+  #### Scrum - Master :
+  - **_BUSTAMANTE FLORES ERICK ANDREW_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+  #### Desarrollador Front-End:
+  - **_CASILLA PERCCA VLADIMIR DANTE_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+  #### Asesor de sistema:
+  - **_DORADO TORRES DIEGO ALONSO_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+  #### Testeador:
+  - **_TTITO QUILCA CESAR RODRIGO_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+  - **_SARCO JACINTO DANIEL EDUARDO_** - _GitHub Account_ - [Mjinboodssj999](https://github.com/Mjinboodssj999)
+  #### Requerimientos:
+  - **_UGARTE CASTILLO BRIGGITTE LEONOR_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
 
 
 ## Tabla de Contenido
