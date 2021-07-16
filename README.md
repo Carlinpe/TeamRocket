@@ -5,10 +5,11 @@
   - **Institucion:** Universidad Nacional De San Antonio Abad Del Cusco
   - **Facultad:** Facultad De Ingenieria Eléctrica, Electrónica, Informática y Mecánica
   - **Escuela Profecional:** Ingenieria Informatica Y De Sistemas
+  - **Proyecto: SISTEMA DE TUTORIA**
 
-#### Proyecto: SISTEMA DE TUTORIA
-#### Autores y Cargo Designado:
-#### -  Product - Owner :
+
+#### Autores:
+#### Product - Owner :
 #### Docente Encargada: **_QUINTANILLA PORTUGAL ROXANA LISETTE_** - _Docente_ - [Concytec](http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=40930).
 #### Desarrollador Back-End:
 - **_QUISPE CHAMBILLA CARLOS ENRIQUE_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
