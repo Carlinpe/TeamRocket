@@ -41,7 +41,7 @@
   Observamos que la designación de docentes para realizar tutorías aún no se encuentra automatizada y debido a esto los alumnos no son identificados de manera rápida para poder recibir dichas tutorías.
 #### 1.1.2 Identificación del problema	
   Identificar la asignación de los estudiantes para recibir las tutorías.
-### 1.2 
+### 1.2 Objetivos
 
 #### 1.2.1 Objetivo general	
   Desarrollar e Identificar un sistema de tutoría para la escuela profesional de ingeniería informática y de sistemas.
