@@ -43,25 +43,5 @@
   Identificar la asignación de los estudiantes para recibir las tutorías.
 ### 1.2 Objetivos
 
-#### 1.2.1 Objetivo general	
-  Desarrollar e Identificar un sistema de tutoría para la escuela profesional de ingeniería informática y de sistemas.
-#### 1.2.2 Objetivos específicos	
-  Realizar el desarrollo del Sistema cubriendo todos los requisitos del Reglamento de Tutorías.
-
-### 1.3 Limitaciones y Delimitaciones	
-  - Hicimos uso de un software online para poder realizar el trabajo de la creación del Backlog con el cual agregamos el link para su visualización.
-  - Necesitaremos acceso a la base de datos para realizar el siguiente paso.
-  - Identificar los requerimientos.
-  - La creación de los diagramas de casos de uso de los requisitos de prioridad M.
-  - Las circunstancias actuales que vivimos por COVID-19, nos impide reunir a los miembros del equipo presencialmente.
-    - Software: https://dev.azure.com
-    - Proyecto: https://dev.azure.com/carrito2520/Sistema%20de%20Tutorias
-    - Repositorio Github: https://github.com/VkCarlin/TeamRocket
-    - Guia de i*: http://istarwiki.org/tiki-index.php?page=iStarQuickGuide 
-    - Software i*: https://www.cin.ufpe.br/~jhcp/pistar/tool/#
-    - Software para casos de uso: https://lucid.app/lucidchart
-### 1.4 Justificación	
-  El presente proyecto de investigación tiene como finalidad desarrollar prototipos, reconocer los requerimientos, verificación de modelos lógicos, y aplicar el     backlog para desarrollar cada una de las tareas.
-### 1.5 Cronograma	
 
 ![Resultado](./SistemadeTutoria_Images/Cronograma.png)
