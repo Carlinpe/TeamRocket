@@ -7,8 +7,7 @@
   - **Escuela Profecional:** Ingenieria Informatica Y De Sistemas
 
 #### Proyecto: SISTEMA DE TUTORIA
-#### Autores:
-#### Trabajo designado:
+#### Autores y Cargo Designado:
 #### Product - Owner :
 #### Docente Encargada: **_QUINTANILLA PORTUGAL ROXANA LISETTE_** - _Docente_ - [Concytec](http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=40930).
 #### Desarrollador Back-End:
